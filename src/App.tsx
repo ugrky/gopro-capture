@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <div className="App-header">
+        <p>Added offline support.</p>
         <button>Request Stream</button>
         <button>Start Streaming</button>
 
